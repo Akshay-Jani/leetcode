@@ -8,6 +8,7 @@ namespace LeetCode
         static void Main(string[] args)
         {
             Console.WriteLine($"Integer is: {RomanToInteger.RomanToInt("III")}");
+            Console.WriteLine($"Answer is: {HalvesAreAlikeProblem.Run("Textbook")}");
         }
     }
 }
